@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ActuallyEnbeon, but you can call me Enbeon
-- 👀 I’m interested in creating games and mods
-- 🌱 I’m currently getting better at Java, and I'm competent with Python too
+- 👀 I’m interested in pretty much anything, from game development to programming language design
+- 🌱 I’m proficient in Java and Python, with some experience in C# and JavaScript
 - 📫 I don't just give out my contact information to all and sundry! Find me somewhere else first
 
 <!---
